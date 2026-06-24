@@ -1,5 +1,5 @@
 # MastersThesis
-All relevant code files of my Master's thesis are stored here.
+All relevant code files of my Master's thesis on "Multiomics analysis of CRISPRi mediated metabolic knockdowns in *Escherichia coli*" are stored here.
 The files names start with the same number as the method mentioned in the thesis.
 
 Here is the full list of files:
@@ -25,5 +25,3 @@ Here is the full list of files:
 - 42_12_metabolome_target_reactants_sinaplot.py
 - 42_13_1list_strongly_interacting_pathways.py
 - 42_13_2_strong_interaction_pathway_analysis_stripplot.py
-
-
